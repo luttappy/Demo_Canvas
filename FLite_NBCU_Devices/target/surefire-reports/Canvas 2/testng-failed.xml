@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Canvas 2]">
+  <listeners>
+    <listener class-name="com.mop.qa.test.bvt.TestSuite"/>
+  </listeners>
+  <test name="Test2(failed)">
+    <classes>
+      <class name="com.mop.qa.test.bvt.Test_TakeAssesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="finishExecution"/>
+          <include name="executeSuite"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_TakeAssesment -->
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test name="Test4(failed)">
+    <classes>
+      <class name="com.mop.qa.test.bvt.Test_TakeAssesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="finishExecution"/>
+          <include name="executeSuite"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_TakeAssesment -->
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+  <test name="Test6(failed)">
+    <classes>
+      <class name="com.mop.qa.test.bvt.Test_TakeAssesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="finishExecution"/>
+          <include name="executeSuite"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_TakeAssesment -->
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+    </classes>
+  </test> <!-- Test6(failed) -->
+  <test name="Test9(failed)">
+    <classes>
+      <class name="com.mop.qa.test.bvt.Test_TakeAssesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="finishExecution"/>
+          <include name="executeSuite"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_TakeAssesment -->
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="startTestReport"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+    </classes>
+  </test> <!-- Test9(failed) -->
+</suite> <!-- Failed suite [Canvas 2] -->

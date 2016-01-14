@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.mop.qa.test.bvt.TestCanvas_iOS">
+        <methods>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="finishExecution"/>
+          <include name="teardown"/>
+          <include name="executeSuite"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.TestCanvas_iOS -->
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+      <class name="com.mop.qa.test.bvt.Test_TakeAssesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_TakeAssesment -->
+      <class name="com.mop.qa.test.bvt.Canvasintruct_native_file">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Canvasintruct_native_file -->
+      <class name="com.mop.qa.test.bvt.TestToday_Android">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.TestToday_Android -->
+      <class name="com.mop.qa.test.bvt.Canvasinstr_perform_file">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Canvasinstr_perform_file -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

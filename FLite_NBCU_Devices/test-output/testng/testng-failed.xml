@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testng]">
+  <test name="testng(failed)">
+    <classes>
+      <class name="com.mop.qa.test.bvt.TestSuite">
+        <methods>
+          <include name="testTearDown"/>
+          <include name="testSetUp"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.TestSuite -->
+      <class name="com.mop.qa.test.bvt.Test_Appium_Mobile_Native">
+        <methods>
+          <include name="setUp"/>
+          <include name="testOphthalmology"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_Appium_Mobile_Native -->
+    </classes>
+  </test> <!-- testng(failed) -->
+</suite> <!-- Failed suite [testng] -->

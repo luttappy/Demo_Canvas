@@ -1,0 +1,2 @@
+echo commandprompt
+export ANDROID_HOME="/Applications/android-sdk-macosx";/Applications/Appium.app/Contents/Resources/node/bin/node /Applications/Appium.app/Contents/Resources/node_modules/appium/bin/appium.js

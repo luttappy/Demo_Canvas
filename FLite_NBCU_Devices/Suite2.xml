@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Canvas 2">
+	<test name="Test2">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_Schedule_Assesment"></class>
+		</classes>
+	</test>
+	<!--<test name="Test3">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_TakeAssesment"></class>
+		</classes>
+</test>
+	<test name="Test4">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_Schedule_Assesment"></class>
+		</classes>
+	</test>
+	<test name="Test5">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_TakeAssesment"></class>
+		</classes>
+</test>
+	<test name="Test6">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_Schedule_Assesment"></class>
+		</classes>
+	</test>
+	<test name="Test7">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_TakeAssesment"></class>
+		</classes>
+</test>
+	<test name="Test9">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_Schedule_Assesment"></class>
+		</classes>
+	</test>
+	<test name="Test8">
+		<classes>
+			<class name="com.mop.qa.test.bvt.Test_TakeAssesment"></class>
+		</classes>
+</test>
+ -->
+</suite>
+

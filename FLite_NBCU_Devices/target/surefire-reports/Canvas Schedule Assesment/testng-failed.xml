@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Canvas Schedule Assesment]">
+  <listeners>
+    <listener class-name="com.mop.qa.test.bvt.TestSuite"/>
+  </listeners>
+  <test name="Test2(failed)">
+    <classes>
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <methods>
+          <include name="setUp"/>
+          <include name="startTestReport"/>
+          <include name="finishExecution"/>
+          <include name="teardown"/>
+          <include name="testNBC"/>
+          <include name="executeSuite"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Canvas Schedule Assesment] -->

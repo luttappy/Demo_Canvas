@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Canvas Schedule Assesment" duration-ms="15975" started-at="2016-01-12T19:22:36Z" finished-at="2016-01-12T19:22:52Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="15975" started-at="2016-01-12T19:22:36Z" finished-at="2016-01-12T19:22:52Z">
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <test-method status="PASS" signature="executeSuite(org.testng.ITestContext)[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@cb5822]" name="executeSuite" is-config="true" duration-ms="9643" started-at="2016-01-12T14:22:27Z" finished-at="2016-01-12T14:22:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@29e6eb25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSuite -->
+        <test-method status="PASS" signature="startTestReport(org.testng.ITestContext)[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@cb5822]" name="startTestReport" is-config="true" duration-ms="6" started-at="2016-01-12T14:22:36Z" finished-at="2016-01-12T14:22:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@29e6eb25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@cb5822]" name="setUp" is-config="true" duration-ms="0" started-at="2016-01-12T14:22:36Z" finished-at="2016-01-12T14:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testNBC()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@cb5822]" name="testNBC" duration-ms="15933" started-at="2016-01-12T14:22:36Z" finished-at="2016-01-12T14:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNBC -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@cb5822]" name="teardown" is-config="true" duration-ms="1" started-at="2016-01-12T14:22:52Z" finished-at="2016-01-12T14:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="finishExecution()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@cb5822]" name="finishExecution" is-config="true" duration-ms="2213" started-at="2016-01-12T14:22:52Z" finished-at="2016-01-12T14:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishExecution -->
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Canvas Schedule Assesment -->
+  <suite name="Canvas 2" duration-ms="12425" started-at="2016-01-12T19:22:58Z" finished-at="2016-01-12T19:23:10Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="12425" started-at="2016-01-12T19:22:58Z" finished-at="2016-01-12T19:23:10Z">
+      <class name="com.mop.qa.test.bvt.Test_Schedule_Assesment">
+        <test-method status="PASS" signature="executeSuite(org.testng.ITestContext)[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@6a41eaa2]" name="executeSuite" is-config="true" duration-ms="3039" started-at="2016-01-12T14:22:55Z" finished-at="2016-01-12T14:22:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@62435e70]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSuite -->
+        <test-method status="PASS" signature="startTestReport(org.testng.ITestContext)[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@6a41eaa2]" name="startTestReport" is-config="true" duration-ms="4" started-at="2016-01-12T14:22:58Z" finished-at="2016-01-12T14:22:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@62435e70]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@6a41eaa2]" name="setUp" is-config="true" duration-ms="1" started-at="2016-01-12T14:22:58Z" finished-at="2016-01-12T14:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testNBC()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@6a41eaa2]" name="testNBC" duration-ms="12418" started-at="2016-01-12T14:22:58Z" finished-at="2016-01-12T14:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNBC -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@6a41eaa2]" name="teardown" is-config="true" duration-ms="0" started-at="2016-01-12T14:23:10Z" finished-at="2016-01-12T14:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="finishExecution()[pri:0, instance:com.mop.qa.test.bvt.Test_Schedule_Assesment@6a41eaa2]" name="finishExecution" is-config="true" duration-ms="502" started-at="2016-01-12T14:23:10Z" finished-at="2016-01-12T14:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishExecution -->
+      </class> <!-- com.mop.qa.test.bvt.Test_Schedule_Assesment -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Canvas 2 -->
+  <suite name="testng" duration-ms="0" started-at="2016-01-12T19:23:12Z" finished-at="2016-01-12T19:23:12Z">
+    <groups>
+    </groups>
+  </suite> <!-- testng -->
+</testng-results>
